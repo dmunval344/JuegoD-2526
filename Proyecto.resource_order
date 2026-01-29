@@ -1,6 +1,14 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-    {"name":"oPrueba3","order":1,"path":"objects/oPrueba3/oPrueba3.yy",},
+    {"name":"oEnemigo1","order":7,"path":"objects/oEnemigo1/oEnemigo1.yy",},
+    {"name":"oEnemigo2","order":6,"path":"objects/oEnemigo2/oEnemigo2.yy",},
+    {"name":"oEnemigo3","order":5,"path":"objects/oEnemigo3/oEnemigo3.yy",},
+    {"name":"oMeta","order":4,"path":"objects/oMeta/oMeta.yy",},
+    {"name":"oObstaculo1","order":3,"path":"objects/oObstaculo1/oObstaculo1.yy",},
+    {"name":"oObstaculo2","order":2,"path":"objects/oObstaculo2/oObstaculo2.yy",},
+    {"name":"oPrincipal","order":1,"path":"objects/oPrincipal/oPrincipal.yy",},
+    {"name":"locreoparaveralgoenlaspruebas","order":8,"path":"sprites/locreoparaveralgoenlaspruebas/locreoparaveralgoenlaspruebas.yy",},
+    {"name":"Sprite2","order":9,"path":"sprites/Sprite2/Sprite2.yy",},
   ],
 }
