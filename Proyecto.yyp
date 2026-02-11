@@ -17,12 +17,26 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.2.213",
+
+    "IDEVersion":"2024.14.3.217",
+
   },
   "name":"Proyecto",
   "resources":[
+    {"id":{"name":"oEnemigo1","path":"objects/oEnemigo1/oEnemigo1.yy",},},
+    {"id":{"name":"oEnemigo2","path":"objects/oEnemigo2/oEnemigo2.yy",},},
+    {"id":{"name":"oEnemigo3","path":"objects/oEnemigo3/oEnemigo3.yy",},},
+    {"id":{"name":"oMeta","path":"objects/oMeta/oMeta.yy",},},
+    {"id":{"name":"oObstaculo1","path":"objects/oObstaculo1/oObstaculo1.yy",},},
+    {"id":{"name":"oObstaculo2","path":"objects/oObstaculo2/oObstaculo2.yy",},},
+    {"id":{"name":"oPrincipal","path":"objects/oPrincipal/oPrincipal.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+
+    {"id":{"name":"locreoparaveralgoenlaspruebas","path":"sprites/locreoparaveralgoenlaspruebas/locreoparaveralgoenlaspruebas.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
