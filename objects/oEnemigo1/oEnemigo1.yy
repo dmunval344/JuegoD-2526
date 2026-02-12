@@ -6,8 +6,8 @@
   "name":"oEnemigo1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Proyecto",
-    "path":"Proyecto.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
