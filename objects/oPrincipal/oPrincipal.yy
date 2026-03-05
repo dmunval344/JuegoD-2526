@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite4",
-    "path":"sprites/Sprite4/Sprite4.yy",
+    "name":"spr_dron",
+    "path":"sprites/spr_dron/spr_dron.yy",
   },
   "spriteMaskId":null,
   "visible":true,

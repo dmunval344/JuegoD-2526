@@ -1,5 +1,4 @@
 {
-
   "FolderOrderSettings":[
     {"name":"Borrador","order":7,"path":"folders/Borrador.yy",},
     {"name":"Objects","order":3,"path":"folders/Objects.yy",},
@@ -7,22 +6,12 @@
     {"name":"Sprites","order":4,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_enemigo","order":5,"path":"objects/obj_enemigo/obj_enemigo.yy",},
     {"name":"obj_player","order":8,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_projectile","order":9,"path":"objects/obj_projectile/obj_projectile.yy",},
-    {"name":"obj_wall","order":7,"path":"objects/obj_wall/obj_wall.yy",},
-    {"name":"Object11","order":10,"path":"objects/Object11/Object11.yy",},
-    {"name":"oEnemigo1","order":5,"path":"objects/oEnemigo1/oEnemigo1.yy",},
-    {"name":"oEnemigo2","order":4,"path":"objects/oEnemigo2/oEnemigo2.yy",},
-    {"name":"oEnemigo3","order":3,"path":"objects/oEnemigo3/oEnemigo3.yy",},
-    {"name":"oMeta","order":6,"path":"objects/oMeta/oMeta.yy",},
-    {"name":"oObstaculo1","order":1,"path":"objects/oObstaculo1/oObstaculo1.yy",},
-    {"name":"oObstaculo2","order":2,"path":"objects/oObstaculo2/oObstaculo2.yy",},
-    {"name":"locreoparaveralgoenlaspruebas","order":1,"path":"sprites/locreoparaveralgoenlaspruebas/locreoparaveralgoenlaspruebas.yy",},
-    {"name":"spr_player_1","order":5,"path":"sprites/spr_player_1/spr_player_1.yy",},
-    {"name":"spr_pojectile","order":3,"path":"sprites/spr_pojectile/spr_pojectile.yy",},
-    {"name":"spr_prueba","order":4,"path":"sprites/spr_prueba/spr_prueba.yy",},
-    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
-    {"name":"Sprite4","order":2,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"spr_dron","order":3,"path":"sprites/spr_dron/spr_dron.yy",},
+    {"name":"spr_fondo","order":5,"path":"sprites/spr_fondo/spr_fondo.yy",},
+    {"name":"spr_fuente","order":2,"path":"sprites/spr_fuente/spr_fuente.yy",},
+    {"name":"spr_pared","order":1,"path":"sprites/spr_pared/spr_pared.yy",},
   ],
-
 }

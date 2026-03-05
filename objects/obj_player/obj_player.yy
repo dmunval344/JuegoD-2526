@@ -31,12 +31,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player_1",
-    "path":"sprites/spr_player_1/spr_player_1.yy",
+    "name":"spr_fuente",
+    "path":"sprites/spr_fuente/spr_fuente.yy",
   },
   "spriteMaskId":{
-    "name":"spr_player",
-    "path":"sprites/spr_player/spr_player.yy",
+    "name":"spr_enemigo",
+    "path":"sprites/spr_enemigo/spr_enemigo.yy",
   },
   "visible":true,
 }
