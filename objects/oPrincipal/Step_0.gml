@@ -1,20 +1,25 @@
+var velocidad = 4;
 
-var up    = keyboard_check(vk_up);
-var left  = keyboard_check(vk_left);
-var right = keyboard_check(vk_right);
-
-var total = up + left + right;
-
-if (total == 1)
-{
-    if (up)
-        motion_add(image_index, (0.1));
-		motion_add (image_angle, (90));
-
-    if (left)
-        motion_add(image_index,(0.1));  //Izquierda
-
-    if (right)
-        motion_add(image_index,(0.1));  //Derecha
+// Movimiento con WASD
+if (keyboard_check(ord("D"))) {
+    x += velocidad;
 }
-//este codigo esta mal, lo corrigo la proxima clase
+
+if (keyboard_check(ord("A"))) {
+    x -= velocidad;
+}
+
+if (keyboard_check(ord("S"))) {
+    y += velocidad;
+}
+
+if (keyboard_check(ord("W"))) {
+    y -= velocidad;
+}
+
+// Limitar dentro de la room
+if (x < 0) x = 0;
+if (x > room_width) x = room_width;
+
+if (y < 0) y = 0;
+if (y > room_height) y = room_height;

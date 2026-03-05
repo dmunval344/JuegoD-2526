@@ -1,0 +1,10 @@
+
+ttl -= 1;
+if (ttl <= 0) instance_destroy();
+
+if (place_meeting(x,y,obj_wall)) {
+    instance_destroy();
+}
+if (x < 0 || x > room_width || y < 0 || y > room_height) {
+    instance_destroy();
+}
