@@ -34,7 +34,7 @@
     {"id":{"name":"oEnemigo2","path":"objects/oEnemigo2/oEnemigo2.yy",},},
     {"id":{"name":"oEnemigo3","path":"objects/oEnemigo3/oEnemigo3.yy",},},
     {"id":{"name":"oMeta","path":"objects/oMeta/oMeta.yy",},},
-    {"id":{"name":"oObstaculo1","path":"objects/oObstaculo1/oObstaculo1.yy",},},
+    {"id":{"name":"oObstaculo12","path":"objects/oObstaculo12/oObstaculo12.yy",},},
     {"id":{"name":"oObstaculo2","path":"objects/oObstaculo2/oObstaculo2.yy",},},
     {"id":{"name":"oPrincipal","path":"objects/oPrincipal/oPrincipal.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -44,7 +44,8 @@
     {"id":{"name":"spr_pojectile","path":"sprites/spr_pojectile/spr_pojectile.yy",},},
     {"id":{"name":"spr_prueba","path":"sprites/spr_prueba/spr_prueba.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},    {"id":{"name":"spriteparaprobarenemigo1","path":"sprites/spriteparaprobarenemigo1/spriteparaprobarenemigo1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
